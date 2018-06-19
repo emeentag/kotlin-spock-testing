@@ -1,2 +1,2 @@
 * linguist-vendored
-*.groovy linguist-vendored=false
+*.kt linguist-vendored=false
