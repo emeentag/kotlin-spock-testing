@@ -1,5 +1,5 @@
 ## Spock Testing for Kotlin Project
-This project is created to explain how spock specification testing could be done in a kotlin project.
+This project is created to explain how spock specification kind unit testing could be done in a kotlin project.
 
 ### Technology that we used
 1. Gradle
@@ -16,7 +16,7 @@ integration specs.
 ### Why Spock
 * Easy and takes less time to create a test. (Comparison of JUnit and some mocking framework).
 * It comes mocking, spying, and stubbing out of the box. 
-* BDD(Behavior driven development) like form, that makes your test even more clear.
+* BDD(Behavior driven development) like, that makes your test even more clear.
 * Perfectly works with Groovy syntax. Use closures, straightforward maps, iterate with various inputs combination on ```where``` block.
 
 Note: You can still write jUnit test under test.kotlin folder. It is possible to test your units with both framework.
